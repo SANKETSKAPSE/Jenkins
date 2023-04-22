@@ -1,6 +1,6 @@
 package ExceptionAssignment;
 import java.util.*;
-public class Q1 {
+public class Sanket {
 
 	public static void main(String[] args) {
 		
