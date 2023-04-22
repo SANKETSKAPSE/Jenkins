@@ -1,6 +1,6 @@
 package day2;
 
-public class Maxno {
+public class Maxnumber {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -11,6 +11,7 @@ public class Maxno {
 		int max= (a>b ? (a>c ? a:c) : (b>c ? b:c) );
 		
 		System.out.println(max);
+		System.out.println("maximum number is find");
 		
 	}
 
